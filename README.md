@@ -58,7 +58,7 @@ While I love building full-stack applications, my true passion lies in automatio
 #### **1. Automated Large-Scale Database Migration Script**
 A custom PHP solution to handle large-scale database migrations that would otherwise fail due to server timeouts and memory limits. It intelligently exports and imports each table as a compressed ZIP file, making the process robust and reliable.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/delhiarpitpatel/automate-sql-import-export-cli)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/delhiarpitpatel/large-mysql-migrator)
 
 #### **2. E-commerce & Domain Management Platform**
 A multi-tenant platform with a custom Laravel backend that allows users to manage their products and custom domains from a single dashboard, integrating with the OpenCart e-commerce system.
