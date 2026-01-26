@@ -1,20 +1,22 @@
-### **Arpit Patel** | 1st Year Student
-
-B.Sc. (Hons) Computer Science, Hansraj College, University of Delhi, New Delhi, India
+### **Arpit Patel** | Principal Architect @ BusinessAutomationWithAI
+**CS Student by Degree. Systems Engineer by Trade.**
 
 ---
 
 ### **👋 Hi, I'm Arpit Patel!**
 
-I am a passionate and results-oriented developer specializing in the **PHP/Laravel** ecosystem. As a self-taught full-stack developer since the 7th grade, I am driven to solve real-world problems by building clean, efficient, and scalable web applications.
+I am a results-oriented developer and systems architect specializing in building **SAAS with BAAS** (SaaS with Business Automation as a Service). My mission through **BusinessAutomationWithAI** is to help entrepreneurs replace expensive PaaS dependencies with optimized, self-hosted, and AI-driven infrastructure.
+
+I operate at the intersection of **Backend Engineering** and **DevOps**, architecting complete ecosystems that are scalable, secure, and automated.
 
 ---
 
 ### **💻 My Focus**
 
-My core stack is built on **PHP** and the **Laravel** framework for backend development, supported by **JavaScript** and **Tailwind CSS** on the frontend, with **MySQL** as my database of choice.
-
-While I love building full-stack applications, my true passion lies in automation and crafting tools that solve operational challenges. I am also proficient in **Node.js** for building custom web scrapers and automation scripts.
+* **SaaS Architecture:** Designing complex 3-tier multi-tenant systems with dynamic domain mapping.
+* **Infrastructure & DevOps:** Mastering self-hosted environments using **Docker & Coolify** on private VPS to maximize performance and minimize costs.
+* **AI & Automation:** Integrating local LLMs (Ollama) and Meta Webhooks to build intelligent automation tools and chatbot managers.
+* **Email Engineering:** Ensuring high deliverability through strict SPF, DKIM, and DMARC reputation management.### **Arpit Patel** | 1st Year Student
 
 ---
 
